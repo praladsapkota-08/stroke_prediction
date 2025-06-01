@@ -3,8 +3,8 @@ import pandas as pd
 import joblib
 
 try:
-    preprocessor = joblib.load('model\\preprocessor.joblib')
-    best_model = joblib.load('model\\fine_tunned_xgbclassifier.joblib')
+    preprocessor = joblib.load('model/preprocessor.joblib')
+    best_model = joblib.load('model/fine_tunned_xgbclassifier.joblib')
 
 except Exception as e:
     print('model or preprocessor file not found')
