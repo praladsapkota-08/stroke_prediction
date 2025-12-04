@@ -1,5 +1,19 @@
 # 🧠 Stroke Prediction Project
 
+---
+
+## 🔑 Quick Summary (for recruiters/companies)
+This project demonstrates:
+- **End‑to‑end ML pipeline**: cleaning → feature engineering → model training → evaluation → tuning.  
+- **Handling imbalanced healthcare data** with SMOTE and weighted learning.  
+- **Model comparison** across multiple algorithms.  
+- **Deployment readiness** with processed dataset and tuned model.  
+
+👉 In short: *It’s a practical stroke risk prediction system showing my ability to handle imbalanced medical datasets, apply advanced ML techniques, and deliver clinically relevant insights.*
+
+---
+
+
 ## 📌 Project Overview
 This project builds a **machine learning pipeline to predict stroke risk** using the Kaggle `stroke-data.csv` dataset.  
 Because stroke cases are rare (~4.87% of the dataset), the workflow emphasizes **handling class imbalance** and evaluating models with metrics that matter in healthcare: **Recall** (catching high‑risk patients) and **ROC‑AUC** (overall discrimination ability).
@@ -86,18 +100,6 @@ The goal is to create a reliable tool for **early stroke risk detection** that b
 ---
 
 
----
-
-## 🔑 Quick Summary (for recruiters/companies)
-This project demonstrates:
-- **End‑to‑end ML pipeline**: cleaning → feature engineering → model training → evaluation → tuning.  
-- **Handling imbalanced healthcare data** with SMOTE and weighted learning.  
-- **Model comparison** across multiple algorithms.  
-- **Deployment readiness** with processed dataset and tuned model.  
-
-👉 In short: *It’s a practical stroke risk prediction system showing my ability to handle imbalanced medical datasets, apply advanced ML techniques, and deliver clinically relevant insights.*
-
----
 
 
 
