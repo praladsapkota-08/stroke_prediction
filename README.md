@@ -2,7 +2,7 @@
 
 ---
 
-## 🔑 Quick Summary (for recruiters/companies)
+## 🔑 Quick Summary
 This project demonstrates:
 - **End‑to‑end ML pipeline**: cleaning → feature engineering → model training → evaluation → tuning.  
 - **Handling imbalanced healthcare data** with SMOTE and weighted learning.  
